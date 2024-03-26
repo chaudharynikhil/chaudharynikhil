@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaudharynikhil
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Bachelors
+- 🌱 I’m currently doing my Bachelors
 - 📫 How to reach me Buy1GetNone @Telegram
 
 <!---
